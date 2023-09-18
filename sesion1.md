@@ -180,5 +180,10 @@ Además de su uso en el desarrollo web, JavaScript también se utiliza en otros 
 
 JavaScript es un lenguaje versátil y flexible que sigue en constante evolución. Cuenta con una amplia gama de bibliotecas y frameworks, como React.js, AngularJS y Vue.js, que permiten a los desarrolladores crear aplicaciones web más complejas y eficientes.
 
+# Actividad: 
+## Presentación grupal sobre conceptos básicos de la web
+
+En grupos de trabajo, profundizar en las preguntas asignadas por el docente y exponerlas al grupo. Para ello, es necesario realizar consultas en internet con el fin de ampliar la información de la sesión 2.
+
 Previous
 Contenido
