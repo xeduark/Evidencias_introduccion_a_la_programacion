@@ -125,7 +125,8 @@ Algunos ejemplos:
 |apple.com | support | .com | [https://support.apple.com](Apple) |
 |amazon.com | shop | .com | [https://shop.amazon.com](Amazon) |
 
- ## 9. ¿Qué es un enlace o URL? Tipos de URL y extensiones de archivo
+## 9. ¿Qué es un enlace o URL? 
+### Tipos de URL y extensiones de archivo
 Una *URL* (Uniform Resource Locator) es un identificador único de un recurso en la World Wide Web. Una URL es un nombre que identifica un recurso en Internet, como una página web, una imagen o un archivo. Una URL se compone de varias partes, incluyendo el protocolo, el nombre de dominio, el directorio y el nombre del archivo.
 
 _Hay muchos tipos diferentes de URL, incluyendo:_
@@ -157,7 +158,7 @@ Las etiquetas de HTML se utilizan para definir la estructura básica de una pág
 
 Aunque HTML se enfoca principalmente en la estructura y el contenido de una página web, también se puede combinar con CSS (Cascading Style Sheets) para controlar la apariencia y el diseño de la página, y con JavaScript para agregar interactividad y funcionalidad.
 
-## 11.Que es CSS?
+## 11. Que es CSS?
 **CSS** (Cascading Style Sheets) es un lenguaje de estilo utilizado para describir la presentación y el aspecto visual de un documento HTML o XML. CSS trabaja en conjunto con HTML para controlar la forma en que los elementos y el contenido de una página web se presentan y se muestran en los navegadores.
 
 La separación de la estructura del contenido (HTML) y el estilo (CSS) es uno de los principios fundamentales del diseño web moderno. CSS permite definir reglas y propiedades que determinan cómo se visualizan los elementos HTML en términos de tamaño, color, fuente, espaciado, diseño y otros aspectos visuales.
@@ -185,5 +186,5 @@ JavaScript es un lenguaje versátil y flexible que sigue en constante evolución
 
 En grupos de trabajo, profundizar en las preguntas asignadas por el docente y exponerlas al grupo. Para ello, es necesario realizar consultas en internet con el fin de ampliar la información de la sesión 2.
 
-Previous
-Contenido
+Previous[https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/](INICIO)
+Contenido[https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion2.html](SESION2)
