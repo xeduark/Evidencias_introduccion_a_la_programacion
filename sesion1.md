@@ -186,5 +186,7 @@ JavaScript es un lenguaje versátil y flexible que sigue en constante evolución
 
 En grupos de trabajo, profundizar en las preguntas asignadas por el docente y exponerlas al grupo. Para ello, es necesario realizar consultas en internet con el fin de ampliar la información de la sesión 2.
 
-Previous[](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/)
-Contenido[](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion2.html)
+
+[Anterior](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/)
+
+[Siguiente](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion2.html)
