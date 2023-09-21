@@ -21,7 +21,9 @@ _Además, combinar celdas en la tabla con los atributos rowspan y colspan, como 
 
 ### SOLUCION
 >Tabla sobre productos 
-```HTML CSS
+
+
+```HTML,CSS
 <!--By : XeduarK-->
 <!DOCTYPE html>
 <html lang="en">
