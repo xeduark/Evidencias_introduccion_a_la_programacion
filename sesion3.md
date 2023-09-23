@@ -29,7 +29,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
 # PLANTILLA INICIAL 
 
 > EJEMPLO
-```HTML CSS
+```HTML,CSS
 <!DOCTYPE html>
 <html>
 
@@ -107,9 +107,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
 </body>
 
 </html>
-```````
-
-
+```
 Semántica y Estructura de la Plantilla
 El código HTML y CSS proporcionado describe un sitio web que trata sobre etiquetas multimedia en HTML5. A continuación, se desglosa la semántica y estructura del sitio:
 
@@ -117,7 +115,7 @@ El código HTML y CSS proporcionado describe un sitio web que trata sobre etique
 
 `<html>`: La etiqueta raíz que envuelve todo el contenido HTML del sitio.
 
-`<head>`: Aquí se encuentran las metainformaciones y enlaces a recursos externos. En este caso, se define el título de la página y se incluye un bloque ***style*** para agregar reglas de estilo CSS.
+`<head>`: Aquí se encuentran las metainformaciones y enlaces a recursos externos. En este caso, se define el título de la página y se incluye un bloque `<style>` para agregar reglas de estilo CSS.
 
 `<title>`: Establece el título de la página en la pestaña del navegador.
 
@@ -146,6 +144,7 @@ Los encabezados de nivel 1 y 3 están centrados.
 Los encabezados de nivel 2 `<h2>`tienen color azul.
 El pie de página `<footer>`tiene un fondo oscuro, texto blanco, espacio de relleno y está centrado.
 Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multimedia en HTML5, con una estructura semántica que utiliza encabezados, párrafos y secciones para organizar y presentar el contenido. El estilo CSS proporciona una apariencia visual coherente y agradable.
+
 
 ### SOLUCION ###
 
