@@ -281,6 +281,8 @@ _Además, combinar celdas en la tabla con los atributos rowspan y colspan, como 
 </html>
 ```
 [Sesion3](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion3.html)
+
+
 [Sesion5](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion5.html)
 
 
