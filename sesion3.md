@@ -106,7 +106,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
 
 </body>
 
-</html
+</html >
 ```
 
 Semántica y Estructura de la Plantilla
