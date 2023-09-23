@@ -23,7 +23,11 @@ _Además, combinar celdas en la tabla con los atributos rowspan y colspan, como 
 >Tabla sobre productos 
 
 
+<<<<<<< HEAD
 ```HTML CSS
+=======
+```HTML,CSS
+>>>>>>> aea1a07b9e429e49265183389051626585489383
 <!--By : XeduarK-->
 <!DOCTYPE html>
 <html lang="en">
