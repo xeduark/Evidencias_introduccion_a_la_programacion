@@ -106,8 +106,9 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
 
 </body>
 
-</html>
+</html
 ```
+
 Semántica y Estructura de la Plantilla
 El código HTML y CSS proporcionado describe un sitio web que trata sobre etiquetas multimedia en HTML5. A continuación, se desglosa la semántica y estructura del sitio:
 
