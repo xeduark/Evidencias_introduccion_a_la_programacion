@@ -101,7 +101,7 @@ Un dominio es el nombre de un sitio web en la web. Por ejemplo, el dominio de es
 
 _Aquí hay una descripción más detallada de cada uno de estos términos:_
 
-**Dominio:** Un dominio es el nombre de un sitio web en la web. Por ejemplo, el dominio de este sitio web es ["www.google.com"](Google). El dominio es lo que los usuarios introducen en la barra de direcciones de su navegador para acceder a un sitio web.
+**Dominio:** Un dominio es el nombre de un sitio web en la web. Por ejemplo, el dominio de este sitio web es ["www.google.com"](https://www.google.com.co/). El dominio es lo que los usuarios introducen en la barra de direcciones de su navegador para acceder a un sitio web.
 
 **Subdominio:** Un subdominio es un nombre de dominio que se encuentra debajo de un dominio principal. Por ejemplo, el subdominio de este sitio web es **"www"**. Un subdominio se utiliza a menudo para separar diferentes secciones de un sitio web, como un blog, una tienda en línea o un portal de clientes.
 
@@ -119,11 +119,11 @@ Algunos ejemplos:
 
 |Dominio |	Subdominio | Extensión | URL |
 |:------:|:---------:|:------:|:-------:|
-|google.com|www|.com|[https://www.google.com](Google)|
-|yahoo.com | mail | .com | [https://mail.yahoo.com](Yahoo)|
-|bing.com | admin | .com | [https://admin.bing.com](Bing) |
-|apple.com | support | .com | [https://support.apple.com](Apple) |
-|amazon.com | shop | .com | [https://shop.amazon.com](Amazon) |
+|google.com|www|.com|[https://www.google.com](https://www.google.com.co/)|
+|yahoo.com | mail | .com | [https://mail.yahoo.com](https://login.yahoo.com/?.intl=es)|
+|bing.com | admin | .com | [https://admin.bing.com](https://www.bing.com/?setlang=es) |
+|apple.com | support | .com | [https://support.apple.com](https://support.apple.com/es-lamr) |
+|amazon.com | shop | .com | [https://shop.amazon.com](https://www.amazon.com/?&tag=googleuscol05-20&ref=pd_sl_7d0mn8q9wb_e&adgrpid=83627296251&hvpone=&hvptwo=&hvadid=602537718406&hvpos=&hvnetw=g&hvrand=7335199797894478257&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1029276&hvtargid=kwd-10573980&hydadcr=8635_13554488&language=es_US) |
 
 ## 9. ¿Qué es un enlace o URL? 
 ### Tipos de URL y extensiones de archivo
@@ -187,6 +187,6 @@ JavaScript es un lenguaje versátil y flexible que sigue en constante evolución
 En grupos de trabajo, profundizar en las preguntas asignadas por el docente y exponerlas al grupo. Para ello, es necesario realizar consultas en internet con el fin de ampliar la información de la sesión 2.
 
 
-[Anterior](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/)
+[Inicio](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/)
 
-[Siguiente](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion2.html)
+[Sesion2](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion2.html)
