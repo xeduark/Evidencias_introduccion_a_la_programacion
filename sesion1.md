@@ -189,4 +189,5 @@ En grupos de trabajo, profundizar en las preguntas asignadas por el docente y ex
 
 [Inicio](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/)
 
+
 [Sesion2](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion2.html)
