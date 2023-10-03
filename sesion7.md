@@ -14,9 +14,13 @@ Requerimientos del proyecto:
 * Crea un proyecto web de diseño libre.
 * Documentar el repositorio en el archivo README.md
 
-## SOLUCION 
+## SOLUCIÓN 
 
+https://xeduark.github.io/SESION7/
 
+[Sesion6](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion6.html)
+
+[Sesion8](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion8.html)
 
 
 
