@@ -20,7 +20,7 @@ Las páginas del sitio serán:
 
 > Pagina principal
 
-```HTML
+```html
 <!--By : Xeduark -->
 
 <!DOCTYPE html>
@@ -64,7 +64,7 @@ Las páginas del sitio serán:
 
 > Pagina secundaria
 
-```HTML
+```html
 <!--By : Xeduark-->
 <!DOCTYPE html>
 <html lang="en">
@@ -114,7 +114,7 @@ Las páginas del sitio serán:
 ### CONTACTO
 >Pagina opcional
 
-```HTML
+```html
 <!--By : Xeduark-->
 <!DOCTYPE html>
 <html lang="en">
