@@ -29,7 +29,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
 # PLANTILLA INICIAL 
 
 > EJEMPLO
-#
+
 ```html
 
 <!DOCTYPE html>
