@@ -29,7 +29,8 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
 # PLANTILLA INICIAL 
 
 > EJEMPLO
-```HTML,CSS
+
+```html
 
 <!DOCTYPE html>
 <html>
@@ -109,7 +110,8 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
 
 </html >
 ```
-# 
+#
+
 Semántica y Estructura de la Plantilla
 El código HTML y CSS proporcionado describe un sitio web que trata sobre etiquetas multimedia en HTML5. A continuación, se desglosa la semántica y estructura del sitio:
 
@@ -150,7 +152,7 @@ Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multi
 
 ### SOLUCION ###
 
-```HTML CSS
+```html
 <!--By XeduarK-->
 <!DOCTYPE html>
 <html>
@@ -345,7 +347,6 @@ Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multi
 </body>
 
 </html>
-
 ```
 [Sesion2](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion2.html)
 

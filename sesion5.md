@@ -32,8 +32,9 @@ _Aplicar los conocimientos sobre los tipos de etiquetas HTML para diseñar un fo
 
 ### SOLUCION
 >Formulario en Html
+#
 
-```HTML CSS
+```html
 <!--By Xeduark-->
 <!DOCTYPE html>
 <html lang="en">
