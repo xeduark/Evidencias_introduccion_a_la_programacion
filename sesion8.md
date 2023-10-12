@@ -41,6 +41,7 @@ Aplica los siguientes estilos usando seleccionadores descendientes:
 ## SOLUCIÓN
 
 >El HTML que se necesita
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -91,6 +92,8 @@ Aplica los siguientes estilos usando seleccionadores descendientes:
 </html>
 ```
 >El CSS que se necesita
+
+
 ```css
 #contenido{
     color: blue;
