@@ -77,7 +77,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
   height: 100px;
 }
 ```
-* ***Border-radius:** Agrega un radio de esquina de 10 píxeles.
+* **Border-radius:** Agrega un radio de esquina de 10 píxeles.
 
 ```css
 .elemento {
@@ -112,6 +112,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 ### SOLUCIÓN
 
 >Html
+
 ```html
 <!DOCTYPE html>
 <html lang="es">
@@ -128,6 +129,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 </html>
 ```
 >CSS
+
 ```css
 .contenedor {
     width: 200px;
@@ -173,6 +175,7 @@ Una medida indicada mediante unidades absolutas está completamente definida, ya
 * pt, puntos. Un punto equivale a 1 pulgada/72, es decir, unos 0.35 milímetros.
 * pc, picas. Una pica equivale a 12 puntos, es decir, unos 4.23 milímetros.
 A continuación se muestran ejemplos de utilización de unidades absolutas:
+
 ```css
 /* El cuerpo de la página debe mostrar un margen de media pulgada */
 body { margin: 0.5in; }
