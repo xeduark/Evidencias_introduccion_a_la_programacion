@@ -78,7 +78,7 @@
 
 [Sesión 11](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion11.html)
 
-[Sesión 13](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion11.html)
+[Sesión 13](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion13.html)
 
 
 
