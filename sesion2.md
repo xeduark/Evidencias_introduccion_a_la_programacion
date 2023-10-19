@@ -164,10 +164,10 @@ Las páginas del sitio serán:
 
 </html>
 ```
-[Sesion1](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion1.html)
+[Sesión 1](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion1.html)
 
 
-[Sesion3](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion3.html)
+[Sesión 3](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion3.html)
 
 
 

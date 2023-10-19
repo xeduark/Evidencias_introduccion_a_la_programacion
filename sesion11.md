@@ -137,6 +137,8 @@ Las pseudoclases se pueden dividir en dos categorías principales:
 * **Pseudoclases de estado**: Estas pseudoclases especifican el estado actual del elemento, como si está seleccionado, activo o en foco.
 * **Pseudoclases de acción**: Estas pseudoclases especifican el estado del elemento en respuesta a una acción del usuario, como hacer clic o pasar el cursor por encima.
 
+[https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-broken](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-broken)
+
 Orden de las pseudoclases:
 
 El orden en el que se aplican las pseudoclases es importante. Las pseudoclases de estado se aplican primero, seguidas de las pseudoclases de acción.
@@ -207,5 +209,159 @@ button:active {
 
 ![boton](imagenes/sesion11.9.png)
 
+* Deshabilitar un botón:
+>yo use este html
+```html
+<button name="button" >Click me</button>
+    <button name="button" disabled>Click me</button>
+```
 
+```css
+button {
+  cursor: pointer;
+  background-color: blue;
+}
 
+button:disabled {
+  cursor: not-allowed;
+  background-color: gray;
+}
+```
+![boton](imagenes/sesion11.10.png)
+
+* Activar un enlace cuando el usuario hace clic en él:
+
+```css
+a {
+  color: blue;
+}
+
+a:link {
+  background-color: red;
+}
+
+a:active {
+  background-color: green;
+}
+```
+
+![link](imagenes/sesion11.11.png)
+
+>cuando esta activo
+
+![link activo](imagenes/sesion11.12.png)
+
+* Cambiar el color de fondo de una lista cuando el usuario hace clic en el elemento:
+
+```css
+ul {
+  list-style-type: none;
+  background-color: white;
+}
+
+li:nth-of-type(1):hover {
+  background-color: red;
+}
+
+li:nth-of-type(2):hover {
+  background-color: green;
+}
+
+li:nth-of-type(3):hover {
+  background-color: blue;
+}
+```
+![lista](imagenes/sesion11.13.png)
+
+![lista](imagenes/sesion11.14.png)
+
+![lista](imagenes/sesion11.15.png)
+
+## SeudoElementos
+Los pseudoelementos son una característica de CSS que permite seleccionar y dar estilo a elementos que no existen en el HTML, o que no son un simple elemento en sí. Por ejemplo, podemos utilizar un pseudoelemento para añadir una flecha al final de un párrafo, o para crear un efecto de sombra debajo de un elemento.
+
+Los pseudoelementos se añaden a los selectores, pero en lugar de describir un estado especial, permiten añadir estilos a una parte concreta del documento. Por ejemplo, el pseudoelemento ::first-line selecciona solo la primera línea del elemento especificado por el selector.
+
+Los pseudoelementos son palabras clave que se añaden a los selectores para seleccionar y dar estilo a elementos que no existen en el HTML, o que no son un simple elemento en sí.
+
+[https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-color-swatch](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-color-swatch)
+
+**Pseudoelementos de contenido:**
+
+Ejemplos de pseudoelementos de contenido:
+
+* Establece la primera línea de todos los párrafos (p) en negrita y roja:
+
+```css
+p::first-line {
+  font-weight: bold;
+  color: red;
+}
+```
+![parrafo](imagenes/sesion11.16.png)
+
+* La primera letra estará en negrita, en color crimson y un tamaño de 60 píxeles
+
+```css
+p::first-letter {
+    font-weight: bold;
+    color: crimson;
+    font-size: 60px;
+}
+```
+![parrafo](imagenes/sesion11.17.png)
+
+* Añadir una flecha al final de un párrafo:
+
+```css
+p {
+  font-size: 16px;
+  line-height: 2;
+}
+
+p::after {
+  content: "→";
+  font-size: 20px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+```
+![parrafo](imagenes/sesion11.18.png)
+
+**Pseudoelementos de posición:**
+
+Ejemplos de pseudoelementos de posición:
+
+`::selection`
+
+Cambiar el color de fondo del texto seleccionado:
+
+```css
+body {
+  color: black;
+  background-color: white;
+}
+
+::selection {
+  background-color: red;
+}
+```
+![parrafo](imagenes/sesion11.19.png)
+
+`::before-after:`
+
+* Añadir contenido antes y después del elemento.
+
+```css
+h1::before {
+    content: url("https://icons.iconarchive.com/icons/gartoon-team/gartoon-action/48/dialog-apply-icon.png");
+}
+```
+![titulo](imagenes/sesion11.20.png)
+
+![titulo](imagenes/sesion11.21.png)
+
+[Sesión 10](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion10.html)
+
+[Sesión 12](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion12.html)

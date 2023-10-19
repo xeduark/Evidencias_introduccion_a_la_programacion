@@ -144,9 +144,9 @@ header{
 ```
 ![Pagina web sesion8](imagenes/Captura%20de%20pantalla%202023-10-11%20195335.png)
 
-[Sesion7](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion7.html)
+[Sesión 7](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion7.html)
 
-[Sesion9](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion9.html)
+[Sesión 9](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion9.html)
 
 
 

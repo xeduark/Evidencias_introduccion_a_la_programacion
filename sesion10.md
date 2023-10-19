@@ -65,10 +65,10 @@ Preguntas:
 
 
 
-[Sesion9](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion9.html)
+[Sesión 9](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion9.html)
 
 
-[Sesion11](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion11.html)
+[Sesión 11](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion11.html)
 
 
 

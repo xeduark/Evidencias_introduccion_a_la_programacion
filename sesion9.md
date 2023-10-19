@@ -295,10 +295,10 @@ En general, se recomienda el uso de unidades relativas siempre que sea posible, 
 
 
 
-[Sesion8](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion8.html)
+[Sesión 8](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion8.html)
 
 
-[Sesion10](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion10.html)
+[Sesión 10](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion10.html)
 
 
 

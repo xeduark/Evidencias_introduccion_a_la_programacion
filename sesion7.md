@@ -16,12 +16,13 @@ Requerimientos del proyecto:
 
 ## SOLUCIÓN 
 
-https://xeduark.github.io/SESION7/
+[https://xeduark.github.io/SESION7/](https://xeduark.github.io/SESION7/)
 
 
-[Sesion6](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion6.html)
 
-[Sesion8](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion8.html)
+[Sesión 6](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion6.html)
+
+[Sesión 8](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion8.html)
 
 
 
