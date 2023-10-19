@@ -50,11 +50,19 @@ Este ejemplo muestra dos elementos div posicionados de forma absoluta y relativa
 
 Preguntas:
 
-* ¿Cuál es la diferencia entre los valores position: absolute y position: relative?
-* ¿Cómo se puede usar la propiedad z-index para controlar el orden de apilamiento de los elementos posicionados?
-* ¿Cómo se puede usar la propiedad display para controlar cómo se muestra un elemento en una página web?
+* 1 ¿Cuál es la diferencia entre los valores position: absolute y position: relative?
+* 2 ¿Cómo se puede usar la propiedad z-index para controlar el orden de apilamiento de los elementos posicionados?
+* 3 ¿Cómo se puede usar la propiedad display para controlar cómo se muestra un elemento en una página web?
 
 ### SOLUCIÓN
+
+1. En position: *relative* , el elemento está posicionado Relativo a sí mismo. Sin embargo, un elemento absolutamente posicionado es relativo a su padre. Un elemento con position: *absolute* se elimina del flujo normal de documentos. Se posiciona automáticamente en el punto de inicio (top-left esquina) de su elemento padre.
+
+2. z-index es una propiedad que se asigna a un elemento en CSS. Al darle un valor numérico mayor, el elemento se superpondrá sobre los elementos con valores z-index más bajos, controlando así el orden de apilamiento.
+
+3. La propiedad CSS display especifica si un elemento es tratado como block or inline element y el diseño usado por sus hijos, como flow layout(Diseño de Flujo), grid(Cuadricula) o flex(Flexible)
+
+
 
 
 [Sesion9](https://xeduark.github.io/Evidencias_introduccion_a_la_programacion/sesion9.html)
